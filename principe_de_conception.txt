@@ -1,0 +1,1 @@
+Separation of Concerns:GestionnaireEmploiDuTemps : 2 responsabilités (détache&atach et notifier)
